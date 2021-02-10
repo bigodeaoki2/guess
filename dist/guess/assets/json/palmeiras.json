@@ -1,0 +1,283 @@
+[
+    {
+        "teams" : [
+            {
+                "name" : "Palmeiras 2015",
+                "camp" : "Brasileirão",
+                "year" : 2015,
+                "players" : [
+                    {
+                        "name" : "Fernando Prass",
+                        "pos": "GOL",
+                        "checked" : false 
+                    },{
+                        "name" : "Lucas", 
+                        "pos" : "DEF",
+                        "checked" : false
+                    },{
+                        "name" : "Victor Ramos",
+                        "pos" : "DEF",
+                        "checked" : false
+                    },{
+                        "name" : "Vitor Hugo", 
+                        "pos" : "DEF",
+                        "checked" : false
+                    },{
+                        "name" : "Zé Roberto",
+                        "pos" : "DEF",
+                        "checked" : false
+                    },{
+                        "name" : "Gabriel",
+                        "pos" : "MEI",
+                        "checked" : false
+                    },{
+                        "name" : "Robinho",
+                        "pos" : "MEI",
+                        "checked" : false
+                    },{
+                        "name" : "Valdivia",
+                        "pos" : "MEI",
+                        "checked" : false
+                    },{
+                        "name" : "Dudu",
+                        "pos" : "ATA",
+                        "checked" : false
+                    },{
+                        "name" :  "Rafael Marques", 
+                        "pos" : "ATA",
+                        "checked" : false
+                    },{
+                        "name" :"Gabriel Jesus",
+                        "pos" : "ATA",
+                        "checked" : false
+                    },{
+                        "name" :"Oswaldo de Oliveira",
+                        "pos" : "TEC",
+                        "checked" : false
+                    }
+                ]
+            },
+            {
+                "name" : "Palmeiras 2016",
+                "camp" : "Brasileirão",
+                "year" : 2016,
+                "players" : [
+                    {
+                        "name" : "Fernando Prass",
+                        "pos": "GOL",
+                        "checked" : false 
+                    },{
+                        "name" : "Lucas", 
+                        "pos" : "DEF",
+                        "checked" : false
+                    },{
+                        "name" : "Leandro Almeida",
+                        "pos" : "DEF",
+                        "checked" : false
+                    },{
+                        "name" : "Vitor Hugo", 
+                        "pos" : "DEF",
+                        "checked" : false
+                    },{
+                        "name" : "Zé Roberto",
+                        "pos" : "DEF",
+                        "checked" : false
+                    },{
+                        "name" : "Arouca",
+                        "pos" : "MEI",
+                        "checked" : false
+                    },{
+                        "name" : "Robinho",
+                        "pos" : "MEI",
+                        "checked" : false
+                    },{
+                        "name" : "Thiago Santos",
+                        "pos" : "MEI",
+                        "checked" : false
+                    },{
+                        "name" : "Dudu",
+                        "pos" : "ATA",
+                        "checked" : false
+                    },{
+                        "name" :  "Erik", 
+                        "pos" : "ATA",
+                        "checked" : false
+                    },{
+                        "name" :"Gabriel Jesus",
+                        "pos" : "ATA",
+                        "checked" : false
+                    },{
+                        "name" :"Marcelo Oliveira",
+                        "pos" : "TEC",
+                        "checked" : false
+                    }
+                ]
+            },{
+                "name" : "Palmeiras 2017",
+                "camp" : "Brasileirão",
+                "year" : 2017,
+                "players" : [
+                    {
+                        "name" : "Fernando Prass",
+                        "pos": "GOL",
+                        "checked" : false 
+                    },{
+                        "name" : "Jean",
+                        "pos" : "DEF",
+                        "checked" : false
+                    },{
+                        "name" : "Edu Dracena",
+                        "pos" : "DEF",
+                        "checked" : false
+                    },{
+                        "name" : "Yerry Mina", 
+                        "pos" : "DEF",
+                        "checked" : false
+                    },{
+                        "name" : "Zé Roberto",
+                        "pos" : "DEF",
+                        "checked" : false
+                    },{
+                        "name" : "Felipe Melo",
+                        "pos" : "MEI",
+                        "checked" : false
+                    },{
+                        "name" : "Tchê Tchê",
+                        "pos" : "MEI",
+                        "checked" : false
+                    },{
+                        "name" : "Alejandro Guerra",
+                        "pos" : "MEI",
+                        "checked" : false
+                    },{
+                        "name" : "Dudu",
+                        "pos" : "ATA",
+                        "checked" : false
+                    },{
+                        "name" :  "Róger Guedes", 
+                        "pos" : "ATA",
+                        "checked" : false
+                    },{
+                        "name" :"Keno",
+                        "pos" : "ATA",
+                        "checked" : false
+                    },{
+                        "name" :"Cuca",
+                        "pos" : "TEC",
+                        "checked" : false
+                    }
+                ]
+            },{
+                "name" : "Palmeiras 2018",
+                "camp" : "Brasileirão",
+                "year" : 2018,
+                "players" : [
+                    {
+                        "name" : "Jailson",
+                        "pos": "GOL",
+                        "checked" : false 
+                    },{
+                        "name" : "Marcos Rocha",
+                        "pos" : "DEF",
+                        "checked" : false
+                    },{
+                        "name" : "Antônio Carlos",
+                        "pos" : "DEF",
+                        "checked" : false
+                    },{
+                        "name" : "Thiago Martins", 
+                        "pos" : "DEF",
+                        "checked" : false
+                    },{
+                        "name" : "Diogo Barbosa",
+                        "pos" : "DEF",
+                        "checked" : false
+                    },{
+                        "name" : "Bruno Henrique",
+                        "pos" : "MEI",
+                        "checked" : false
+                    },{
+                        "name" : "Felipe Melo",
+                        "pos" : "MEI",
+                        "checked" : false
+                    },{
+                        "name" : "Lucas Lima",
+                        "pos" : "MEI",
+                        "checked" : false
+                    },{
+                        "name" : "Dudu",
+                        "pos" : "ATA",
+                        "checked" : false
+                    },{
+                        "name" : "Keno", 
+                        "pos" : "ATA",
+                        "checked" : false
+                    },{
+                        "name" :"Willian",
+                        "pos" : "ATA",
+                        "checked" : false
+                    },{
+                        "name" :"Roger Machado",
+                        "pos" : "TEC",
+                        "checked" : false
+                    }
+                ]
+            },{
+                "name" : "Palmeiras 2019",
+                "camp" : "Brasileirão",
+                "year" : 2019,
+                "players" : [
+                    {
+                        "name" : "Weverton",
+                        "pos": "GOL",
+                        "checked" : false 
+                    },{
+                        "name" : "Marcos Rocha",
+                        "pos" : "DEF",
+                        "checked" : false
+                    },{
+                        "name" : "Luan",
+                        "pos" : "DEF",
+                        "checked" : false
+                    },{
+                        "name" : "Gustavo Gómez", 
+                        "pos" : "DEF",
+                        "checked" : false
+                    },{
+                        "name" : "Diogo Barbosa",
+                        "pos" : "DEF",
+                        "checked" : false
+                    },{
+                        "name" : "Bruno Henrique",
+                        "pos" : "MEI",
+                        "checked" : false
+                    },{
+                        "name" : "Felipe Melo",
+                        "pos" : "MEI",
+                        "checked" : false
+                    },{
+                        "name" : "Ricardo Goulart",
+                        "pos" : "MEI",
+                        "checked" : false
+                    },{
+                        "name" : "Gustavo Scarpa",
+                        "pos" : "MEI",
+                        "checked" : false
+                    },{
+                        "name" : "Dudu", 
+                        "pos" : "ATA",
+                        "checked" : false
+                    },{
+                        "name" :"Deyverson",
+                        "pos" : "ATA",
+                        "checked" : false
+                    },{
+                        "name" :"Luiz Felipe Scolari",
+                        "pos" : "TEC",
+                        "checked" : false
+                    }
+                ]
+            }
+        ]
+    }
+]
